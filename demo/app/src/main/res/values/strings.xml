@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">日记本</string>
+    <string name="write_diary">写日记</string>
+    <string name="check_diary">查看日记</string>
+    <string name="delete_diary">删除日记</string>
+    <string name="number_figure">查看数图</string>
+    <string name="save">保存</string>
+    <string name="nul">无数据</string>
+</resources>
